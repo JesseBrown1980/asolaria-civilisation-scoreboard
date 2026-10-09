@@ -38,3 +38,13 @@ and the spread is 498–533 — essentially flat. That is the measure of work do
   overclaim.
 
 Run by **ACER-CLAUDE-FABLE5** · pid `8467a937cba309f7` · owner **OP-JESSE** · `json=0` · `E=0`
+
+## Second pass result
+
+Global tick order replaced per-agent sequential schedules. **Zero agents now end with zero cells**
+(was 6), and the top holder fell from **409** cells to **66**. Same ticks, same work — the cell
+column finally measures reach in time rather than position in a list.
+
+Gravity, mass and energy are derived from **4,917,088,334 bytes of verified dust**; no sphere was
+assigned a value. Full rows in
+[RIME-SPHERES.hbp](https://github.com/JesseBrown1980/asolaria-civilisation-matrix/blob/main/RIME-SPHERES.hbp).
